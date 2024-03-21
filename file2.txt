@@ -1,0 +1,8 @@
+how to auto update git/github (git automation)
+1) go to Extension on a side bar menu
+2) type a autogit in search box
+3) install autogit
+4)go to .autogit/ and open autogit file
+5)Modify the updatetime 1800 > 10 , save and exit from vim editor.
+6) go to command pallate (ctrl+shift+p) and search command -1)autogit.stop 2)autogit.restart 
+
